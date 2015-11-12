@@ -8,6 +8,7 @@ Editieren sie anschliessend diese Datei, indem sie ihren Namen unten eintragen (
 
 ##A
 Antoniadis Nadia - nadiaantoniadis
+Arnosti Nina - Chemikerin
 ##B
 Beispiel Name - Alias
 
